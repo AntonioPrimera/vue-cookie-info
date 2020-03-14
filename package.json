@@ -1,0 +1,20 @@
+{
+  "name": "vue-cookie-info",
+  "version": "1.0.0",
+  "description": "A basic information container about the usage of cookies on the website",
+  "main": "VueCookieInfo.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cookie",
+    "gdpr",
+    "info"
+  ],
+	"dependencies": {
+		"js-cookie-manager": "^1.0.2"
+	},
+  "author": "Antonio Primera",
+  "license": "ISC"
+}
